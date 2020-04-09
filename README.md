@@ -4,4 +4,4 @@ Kernel Principal Component Analysis(Kernel PCA): Principal component analysis (P
 
 ### Project Objective
 
-In this project, we are going to implement the Kernel PCA alongside with a Logistic Regression algorithm on a nonlinear dataset. For this task, we will use the "Social_Network_Ads.csv" dataset. In the dataset, the features have a non-linear correlation with the dependent variable. So, we have to apply Kernel PCA to extract the independent variables. Let's have a glimpse of that dataset
+In this project, we are going to implement the Kernel PCA alongside with a Logistic Regression algorithm on a nonlinear dataset. For this task, we will use the "Social_Network_Ads.csv" dataset. In the dataset, the features have a non-linear correlation with the dependent variable. So, we have to apply Kernel PCA to extract the independent variables.
